@@ -1,0 +1,31 @@
+{
+  "name": "web-cli",
+  "version": "0.0.12",
+  "homepage": "https://github.com/amiturgman/web-cli",
+  "authors": [
+    "Ami Turgman <ami.turgman@microsoft.com>"
+  ],
+  "description": "web-based extensible command line interface",
+  "main": "web-cli.html",
+  "moduleType": [],
+  "keywords": [
+    "web",
+    "cli",
+    "command",
+    "line",
+    "interface",
+    "console"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "acli": "^0.0.10"
+  }
+}
