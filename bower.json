@@ -1,6 +1,6 @@
 {
   "name": "web-cli",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "homepage": "https://github.com/amiturgman/web-cli",
   "authors": [
     "Ami Turgman <ami.turgman@microsoft.com>"
@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "acli": "^0.0.10"
+    "acli": "^0.0.11"
   }
 }
